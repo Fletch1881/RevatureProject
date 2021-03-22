@@ -1,0 +1,152 @@
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 14:56:37
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 14:56:37
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 14:56:37
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 14:56:37
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 14:56:37
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 14:56:37
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 14:56:37
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 14:56:37
+{INFO} -  [com.revature.project2.main.Main]   -     Please enter your employee id and password below:      03-22-2021 Mon CDT 14:56:39
+{INFO} -  [com.revature.project2.main.Main]   -     emplyoee id:      03-22-2021 Mon CDT 14:56:39
+{INFO} -  [com.revature.project2.main.Main]   -     password:      03-22-2021 Mon CDT 14:56:40
+{INFO} -  [com.revature.project2.main.Main]   -     Choose what you want to do:      03-22-2021 Mon CDT 14:56:42
+{INFO} -  [com.revature.project2.main.Main]   -     1) Accept/Reject Accounts **under construction**     03-22-2021 Mon CDT 14:56:42
+{INFO} -  [com.revature.project2.main.Main]   -     2) View a customers account     03-22-2021 Mon CDT 14:56:42
+{INFO} -  [com.revature.project2.main.Main]   -     3) View transactions **under construciton**     03-22-2021 Mon CDT 14:56:42
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit     03-22-2021 Mon CDT 14:56:42
+{INFO} -  [com.revature.project2.main.Main]   -     Please enter the customer's id to which you want to view their account     03-22-2021 Mon CDT 14:56:43
+{INFO} -  [com.revature.project2.dao.LoggerDao]   -     test     03-22-2021 Mon CDT 14:56:45
+{INFO} -  [com.revature.project2.main.Main]   -     Account Number: 1234568     03-22-2021 Mon CDT 14:56:45
+{INFO} -  [com.revature.project2.main.Main]   -     Account Balance: 150.0     03-22-2021 Mon CDT 14:56:45
+{INFO} -  [com.revature.project2.main.Main]   -     test from emp main     03-22-2021 Mon CDT 14:56:45
+{INFO} -  [com.revature.project2.main.Main]   -     Choose what you want to do:      03-22-2021 Mon CDT 14:56:45
+{INFO} -  [com.revature.project2.main.Main]   -     1) Accept/Reject Accounts **under construction**     03-22-2021 Mon CDT 14:56:45
+{INFO} -  [com.revature.project2.main.Main]   -     2) View a customers account     03-22-2021 Mon CDT 14:56:45
+{INFO} -  [com.revature.project2.main.Main]   -     3) View transactions **under construciton**     03-22-2021 Mon CDT 14:56:45
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit     03-22-2021 Mon CDT 14:56:45
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 15:11:48
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 15:11:48
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 15:11:48
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 15:11:48
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 15:11:48
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 15:11:48
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 15:11:48
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 15:11:48
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 15:11:49
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 15:11:49
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 15:11:49
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 15:11:49
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 15:11:49
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 15:11:49
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 15:11:49
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 15:11:49
+{INFO} -  [com.revature.project2.main.Main]   -     Please enter your employee id and password below:      03-22-2021 Mon CDT 15:11:51
+{INFO} -  [com.revature.project2.main.Main]   -     emplyoee id:      03-22-2021 Mon CDT 15:11:51
+{INFO} -  [com.revature.project2.main.Main]   -     password:      03-22-2021 Mon CDT 15:11:51
+{INFO} -  [com.revature.project2.main.Main]   -     Choose what you want to do:      03-22-2021 Mon CDT 15:11:52
+{INFO} -  [com.revature.project2.main.Main]   -     1) Accept/Reject Accounts **under construction**     03-22-2021 Mon CDT 15:11:52
+{INFO} -  [com.revature.project2.main.Main]   -     2) View a customers account     03-22-2021 Mon CDT 15:11:52
+{INFO} -  [com.revature.project2.main.Main]   -     3) View transactions **under construciton**     03-22-2021 Mon CDT 15:11:52
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit     03-22-2021 Mon CDT 15:11:52
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 15:13:16
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 15:13:16
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 15:13:16
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 15:13:16
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 15:13:16
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 15:13:16
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 15:13:16
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 15:13:16
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 15:13:17
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 15:13:17
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 15:13:17
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 15:13:17
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 15:13:17
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 15:13:17
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 15:13:17
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 15:13:17
+{INFO} -  [com.revature.project2.main.Main]   -     Please enter your employee id and password below:      03-22-2021 Mon CDT 15:13:19
+{INFO} -  [com.revature.project2.main.Main]   -     emplyoee id:      03-22-2021 Mon CDT 15:13:19
+{INFO} -  [com.revature.project2.main.Main]   -     password:      03-22-2021 Mon CDT 15:13:20
+{INFO} -  [com.revature.project2.main.Main]   -     Choose what you want to do:      03-22-2021 Mon CDT 15:13:20
+{INFO} -  [com.revature.project2.main.Main]   -     1) Accept/Reject Accounts **under construction**     03-22-2021 Mon CDT 15:13:20
+{INFO} -  [com.revature.project2.main.Main]   -     2) View a customers account     03-22-2021 Mon CDT 15:13:20
+{INFO} -  [com.revature.project2.main.Main]   -     3) View transactions **under construciton**     03-22-2021 Mon CDT 15:13:20
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit     03-22-2021 Mon CDT 15:13:20
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 15:13:42
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 15:13:42
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 15:13:42
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 15:13:42
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 15:13:42
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 15:13:42
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 15:13:42
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 15:13:42
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 15:13:52
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 15:13:52
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 15:13:52
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 15:13:52
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 15:13:52
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 15:13:52
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 15:13:52
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 15:13:52
+{INFO} -  [com.revature.project2.main.Main]   -     Please enter your employee id and password below:      03-22-2021 Mon CDT 15:13:58
+{INFO} -  [com.revature.project2.main.Main]   -     emplyoee id:      03-22-2021 Mon CDT 15:13:58
+{INFO} -  [com.revature.project2.main.Main]   -     ID should be numbers only     03-22-2021 Mon CDT 15:13:59
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 15:13:59
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 15:13:59
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 15:13:59
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 15:13:59
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 15:13:59
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 15:13:59
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 15:13:59
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 15:13:59
+{INFO} -  [com.revature.project2.main.Main]   -     Please enter your employee id and password below:      03-22-2021 Mon CDT 15:14:12
+{INFO} -  [com.revature.project2.main.Main]   -     emplyoee id:      03-22-2021 Mon CDT 15:14:12
+{INFO} -  [com.revature.project2.main.Main]   -     ID should be numbers only     03-22-2021 Mon CDT 15:14:15
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 15:14:15
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 15:14:15
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 15:14:15
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 15:14:15
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 15:14:15
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 15:14:15
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 15:14:15
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 15:14:15
+{INFO} -  [com.revature.project2.main.Main]   -     Please enter your employee id and password below:      03-22-2021 Mon CDT 15:14:25
+{INFO} -  [com.revature.project2.main.Main]   -     emplyoee id:      03-22-2021 Mon CDT 15:14:25
+{INFO} -  [com.revature.project2.main.Main]   -     password:      03-22-2021 Mon CDT 15:14:27
+{INFO} -  [com.revature.project2.dao.LoggerDao]   -     Test from login dao impl     03-22-2021 Mon CDT 15:14:29
+{INFO} -  [com.revature.project2.main.Main]   -     Choose what you want to do:      03-22-2021 Mon CDT 15:14:29
+{INFO} -  [com.revature.project2.main.Main]   -     1) Accept/Reject Accounts **under construction**     03-22-2021 Mon CDT 15:14:29
+{INFO} -  [com.revature.project2.main.Main]   -     2) View a customers account     03-22-2021 Mon CDT 15:14:29
+{INFO} -  [com.revature.project2.main.Main]   -     3) View transactions **under construciton**     03-22-2021 Mon CDT 15:14:29
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit     03-22-2021 Mon CDT 15:14:29
+{INFO} -  [com.revature.project2.main.Main]   -     Returning to the main menu
+     03-22-2021 Mon CDT 15:14:36
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------     03-22-2021 Mon CDT 15:14:36
+{INFO} -  [com.revature.project2.main.Main]   -     Welcome to the Banking Application     03-22-2021 Mon CDT 15:14:36
+{INFO} -  [com.revature.project2.main.Main]   -     --------------------------------------
+     03-22-2021 Mon CDT 15:14:36
+{INFO} -  [com.revature.project2.main.Main]   -     Please choose login type below     03-22-2021 Mon CDT 15:14:36
+{INFO} -  [com.revature.project2.main.Main]   -     1) Employee     03-22-2021 Mon CDT 15:14:36
+{INFO} -  [com.revature.project2.main.Main]   -     2) Customer     03-22-2021 Mon CDT 15:14:36
+{INFO} -  [com.revature.project2.main.Main]   -     3) Register for an account     03-22-2021 Mon CDT 15:14:36
+{INFO} -  [com.revature.project2.main.Main]   -     4) Exit
+     03-22-2021 Mon CDT 15:14:36
+{INFO} -  [com.revature.project2.main.Main]   -     Goodbye!     03-22-2021 Mon CDT 15:14:36
